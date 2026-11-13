@@ -4,6 +4,8 @@
 
 Atlas Origins brings together two related collections: Atlas engineering tools and Specialist AI Agent Kits. Use the part that solves your problem; adopting the entire ecosystem is not required.
 
+[Visit the Atlas Origins site](https://atlas-origins.github.io/) ? [Atlas tools](https://atlas-origins.github.io/atlas/) ? [Agent kits](https://atlas-origins.github.io/kits/)
+
 ## Specialist AI Agent Kits
 
 Run an offline tool or customize a specialist starter. The current public alpha distinguishes runnable Python workflows from editable role profiles; downloading a profile does not install a hosted or autonomous assistant.
