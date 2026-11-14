@@ -1,23 +1,33 @@
 # Atlas Origins
 
-**Independent developer tools and specialist AI kits, with results you can inspect.**
+Independent engineering tools and specialist software for people building with AI.
 
-Atlas Origins brings together two related collections: Atlas engineering tools and Specialist AI Agent Kits. Use the part that solves your problem; adopting the entire ecosystem is not required.
+Atlas Origins brings together **Atlas engineering tools** and **Muse Specialist Toolkit**. Each project has its own source, documentation, tests and releases.
 
-[Visit the Atlas Origins site](https://atlas-origins.github.io/) ? [Atlas tools](https://atlas-origins.github.io/atlas/) ? [Agent kits](https://atlas-origins.github.io/kits/)
+[Atlas Origins website](https://atlas-origins.github.io/) · [Muse toolkit](https://atlas-origins.github.io/kits/) · [Atlas tools](https://atlas-origins.github.io/atlas/)
 
-## Specialist AI Agent Kits
+## Muse Specialist Toolkit
 
-Run an offline tool or customize a specialist starter. The current public alpha distinguishes runnable Python workflows from editable role profiles; downloading a profile does not install a hosted or autonomous assistant.
+**15 AI specialists · 100+ configurations · 150+ custom connectors**
 
-[Browse the kits](https://github.com/sethburkhardt21-dev/muse-ai-agent-presets) · [Downloads](https://github.com/sethburkhardt21-dev/muse-ai-agent-presets/releases/tag/v0.4.1-alpha) · [First run](https://github.com/sethburkhardt21-dev/muse-ai-agent-presets/blob/main/docs/GITHUB_QUICKSTART.md)
+An open-source toolkit for customizing your **Meta Muse personal assistant**.
+
+- **Choose a specialist.** Software engineering, research, data, automation, creative work, learning, personal organization and more.
+- **Start from a task.** 100 starter configurations backed by 75 developed skills and 25 workflows.
+- **Run specialist tools.** Python examples with inspectable outputs, checks and repeatable procedures.
+- **Connect your services.** Browse 151 custom connectors with setup instructions and source links.
+- **Keep personal work.** Daily Desk saves tasks and notes, detects conflicting edits, and supports backup and restoration.
+
+[**Get V1.0.0**](https://github.com/sethburkhardt21-dev/muse-ai-agent-presets/releases/tag/v1.0.0) · [Explore the source](https://github.com/sethburkhardt21-dev/muse-ai-agent-presets) · [First-use instructions](https://github.com/sethburkhardt21-dev/muse-ai-agent-presets/blob/main/docs/v1/START_HERE.md) · [151 connectors](https://github.com/sethburkhardt21-dev/muse-ai-agent-presets/blob/main/docs/connectors/CATALOG.md)
+
+Specialist configurations are editable source packages for an existing assistant. Account connections and live tool permissions use Muse's supported setup.
 
 ## Atlas engineering tools
 
-Tools for building software, inspecting agent tool use, debugging behavior, and working with data and model evidence. Atlas Catalog is the discovery entry point for this family. Public links are added as each product's release is verified; unreleased tools are not advertised as downloadable.
+Independent developer tools for software construction, agent controls, debugging, testing, source evidence and model work. Atlas Origins links each tool's public release when its source and first-use instructions are ready.
 
-## What to expect
+[Browse Atlas tools](https://atlas-origins.github.io/atlas/) · [Read the guides](https://atlas-origins.github.io/guides/)
 
-Each published product should explain its useful output, how to try it, what was tested, and what remains outside its scope. A local example is not a blanket claim of production readiness. Licenses and support boundaries belong to the individual product.
+## Maintained by
 
-Created and maintained by [Seth Burkhardt](https://github.com/sethburkhardt21-dev).
+Created and maintained by [Seth Burkhardt](https://github.com/sethburkhardt21-dev). Contributions, issues and license information are managed in the relevant project's repository.
